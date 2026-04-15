@@ -1,111 +1,30 @@
 # FEMA GO Platform Enhancement  
 **UX Lead | Federal Emergency Management Agency (FEMA)**
 
-![Case Study Cover](assets/case-study-cover.png)
+---
+
+## 🔗 View Portfolio
+
+👉 https://tommi-tyler.github.io/enterprise-cms-evaluation-and-content-architecture/
+
+---
 
 ## Overview
 
-Led UX design for FEMA GO platform modernization after inheriting an existing USWDS-based design system. The work focused on evolving that foundation into a scalable, governed component system for emergency management workflows while improving usability, accessibility, and maintainability across complex grant interfaces.
+Led UX design for FEMA GO platform modernization, evolving an inherited USWDS-based design system into a scalable, governed system supporting complex grant workflows.
 
-## Problem
-
-The platform faced several systemic challenges:
-
-- Inconsistent UI and component usage across workflows  
-- Fragmented form patterns and validation behaviors  
-- Limited scalability of the inherited design system  
-- High cognitive load for users completing complex grant applications  
-- Accessibility gaps in form interactions and feedback states  
-
-## Constraints
-
-- Existing USWDS foundation with partial implementation  
-- Multi-contractor environment with inconsistent standards  
-- High compliance requirements, including Section 508  
-- Complex, multi-step grant workflows with structured data dependencies  
-- Continuous delivery environment with evolving requirements  
-
-## Approach
-
-- Implemented atomic design methodology to standardize component hierarchy  
-- Defined reusable UI patterns for forms, alerts, inputs, and actions  
-- Established consistent validation and feedback states across workflows  
-- Aligned typography, color, and layout systems with accessibility standards  
-- Introduced governance through documented component usage and behaviors  
-- Conducted recurring usability testing cycles to validate improvements  
+---
 
 ## Key Contributions
 
-- Standardized form components, including inputs, dropdowns, and validation states  
-- Defined alert and status patterns for success, warning, error, and informational messages  
-- Established button hierarchy and interaction states  
-- Built consistent layout and card-based content structures  
-- Improved modal workflows for inline task completion, including adding equipment  
-- Aligned the design system with real application use cases  
+- Standardized form components  
+- Defined alert and status patterns  
+- Established button hierarchy  
+- Built consistent layouts and grids  
+- Improved modal workflows  
 
-## Artifacts
-
-### 1. Alerts and status patterns
-![Alerts and status patterns](assets/alerts-and-status-patterns.png)
-
-Standardized visual treatment for success, warning, error, and informational states, including both standard and slim variants.
-
-### 2. Typography scale
-![Typography scale](assets/typography-scale.png)
-
-Defined a Public Sans-based type system aligned with USWDS to support readability, hierarchy, and consistency across the platform.
-
-### 3. Card layouts and grid structure
-![Card layouts and grid structure](assets/card-layouts-and-grid-structure.png)
-
-Documented reusable card patterns and grid spacing to support scalable layout decisions across structured content views.
-
-### 4. Button states and hierarchy
-![Button states and hierarchy](assets/button-states-and-hierarchy.png)
-
-Established primary, positive, and negative actions with consistent hover, focus, active, and disabled states.
-
-### 5. Color theme palette
-![Color theme palette](assets/color-theme-palette.png)
-
-Defined the platform color palette, usage guidance, and hierarchy to support accessibility and consistent interaction cues.
-
-### 6. UX design process
-![UX design process](assets/ux-design-process.png)
-
-Documented the UI/UX process connecting discovery, research, prototyping, iteration, and delivery to development.
-
-### 7. Grant request details workflow
-![Grant request details workflow](assets/grant-request-details-workflow.png)
-
-Applied the design system to a real grant application workflow, including structured request information, navigation, and inline task management.
-
-### 8. Add equipment modal
-![Add equipment modal](assets/add-equipment-modal.png)
-
-Designed modal-based interaction for adding equipment within the grant request flow while preserving task continuity.
-
-### 9. Grant request details screen
-![Grant request details screen](assets/grant-request-details-screen.png)
-
-Refined the request details screen to improve clarity, section hierarchy, and interaction flow.
-
-## Impact
-
-- Improved consistency across FEMA GO platform interfaces  
-- Reduced variation in form behavior and user interaction patterns  
-- Increased accessibility compliance through standardized components  
-- Enabled faster development through reusable patterns  
-- Reduced cognitive load for users completing complex grant workflows  
-
-## Tools and Methods
-
-- Figma  
-- USWDS  
-- Component-based design  
-- Usability testing  
-- Design documentation and governance  
+---
 
 ## Notes
 
-This repository documents system-level UX leadership focused on scalable design patterns, structured content, and alignment between design and engineering in a high-stakes federal environment.
+This repository supports the live portfolio page and includes artifacts used in the case study.
